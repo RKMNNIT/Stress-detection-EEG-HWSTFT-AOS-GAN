@@ -19,12 +19,10 @@ Accurate and non-invasive stress detection is critical for mental health monitor
 The model achieves **94% accuracy**, outperforming state-of-the-art baselines.
 
 ---
-
 ## 🗂 Repository Structure
-- `notebooks/` → Example Jupyter notebooks for preprocessing and model training  
-- `src/` → Source code (segmentation, feature extraction, GAN model)  
+- `code/` → Implementation (preprocessing, segmentation, feature extraction, GAN model)  
 - `paper/` → Published paper PDF  
-- `results/` → Accuracy, precision, recall, and F1 plots  
+
 
 ---
 
